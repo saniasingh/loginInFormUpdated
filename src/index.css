@@ -5,9 +5,40 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background: #73A9AD;
+  font-family: Arial;
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+.btn1 {
+  color: white;
+}
+
+button {
+  display: contents;
+  color: white;
+  margin-top: 15px;
+}
+
+input {
+  width: 100%;
+  margin-top: 5px;
+}
+
+h1 {
+  color: white;
+}
+
+.container {
+  align-contents: center;
+  width: 40%;
+  margin-top: 210px;
+}
+
+button:hover {
+  background-color: Black;
 }
